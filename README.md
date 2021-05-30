@@ -1,1 +1,1 @@
-# SistGestion
+# Sistemas de Gestion
